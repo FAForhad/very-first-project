@@ -5,8 +5,14 @@ body {
     background-size: cover;
 }
 
-/* #service {
+#blogs {
     background-image: url(images/vegetables.jpg);
     width: 100%;
     background-size: cover;
-} */
+}
+
+#form {
+    background-image: url(images/6209105.jpg);
+    width: 100%;
+    background-size: cover;
+}
